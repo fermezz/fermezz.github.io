@@ -6,6 +6,7 @@ url:                 https://fermezz.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+theme:               https://github.com/poole/lanyon
 
 # About/contact
 author:
@@ -13,6 +14,12 @@ author:
   email:             fermez@gmail.com
   github:            https://github.com/fermezz
   twitter:           https://twitter.com/frozenamend
+
+collections_dir: collections
+
+collections:
+  writings:
+    output: true
 
 # Gems
 plugins:
