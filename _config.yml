@@ -2,7 +2,7 @@
 title:               fermezz
 tagline:             'rambles'
 description:         'Blog'
-url:                 https://fermezz.github.io
+url:                 https://fermezz.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
