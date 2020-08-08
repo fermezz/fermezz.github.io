@@ -5,6 +5,7 @@ title: Interferencia
 
 El mareo fue el primer síntoma.\
 Una especie de quemadura que me agarró el cerebro y me cambió de baldoza.\
+<!--more-->
 Visión borrosa y boca seca, rumiante y apretada.\
 El párpado, titilante como en convulsión.
 

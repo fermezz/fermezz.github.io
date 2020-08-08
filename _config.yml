@@ -21,6 +21,8 @@ collections:
   writings:
     output: true
 
+excerpt_separator: <!--more-->
+
 # Gems
 plugins:
   - jekyll-paginate
