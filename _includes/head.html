@@ -4,6 +4,15 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  <!-- Twitter cards -->
+  <meta name="twitter:site"        content="{{ site.author.twitter }}">
+  <meta name="twitter:title"       content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+
+  <meta name="twitter:card"  content="summary">
+  <meta name="twitter:image" content="https://fermezz.com/public/favicon.ico">
+  <!-- end of Twitter cards -->
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}

@@ -1,7 +1,7 @@
 # Setup
 title:               fermezz
 tagline:             'rambles'
-description:         'Blog'
+description:         'Things I write'
 url:                 https://fermezz.com
 baseurl:             ''
 paginate:            5
