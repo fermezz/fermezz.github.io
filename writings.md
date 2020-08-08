@@ -9,5 +9,4 @@ title: Writings
       {{ writing.title }}
     </a>
   </h2>
-  {{ writing.excerpt }}
 {% endfor %}
