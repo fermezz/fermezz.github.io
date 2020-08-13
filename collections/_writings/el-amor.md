@@ -6,6 +6,7 @@ status: draft
 
 Aunque la entrada abrumadora yo podía ver las cosas crystal clear. Con sobriedad innata.
 Las niñas jugando a la pelota formando arcos con tres piedas y  un puñado de ropas,
+<!--more-->
 el viejo alimentando a las palomas en el banco de frente al sol.
 
 Y, en el fondo, sin que nadie los vea, ellos dos.
