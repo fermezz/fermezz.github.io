@@ -4,15 +4,19 @@ title: Encierro
 status: draft
 ---
 
-Aunque la entrada abrumadora yo podía ver las cosas crystal clear. Con sobriedad innata.
-Las niñas jugando a la pelota formando arcos con tres piedas y  un puñado de ropas,
+Aunque la entrada era abrumadora yo podía ver las cosas con claridad cristalina.
+Las niñas, jugando a la pelota formando arcos con piedras y bultos de ropa;
 <!--more-->
-el viejo alimentando a las palomas en el banco de frente al sol.
+el viejo, alimentando a las palomas en el banco frente al sol;
+los chicos, andando en patineta en la rampa vertical.
 
-Y, en el fondo, sin que nadie los vea, ellos dos.
-Desde lejos, se miraban como si estuviesen a punto de perder la vista.
-Hasta que rompieron el punto de fricción y
-empezaron a acercarse a paso lento pero continuado,
-hasta estar frente a frente y sucedió lo que, hacía rato, era inevitable.
+Y, en el fondo medio tapados por los árboles, ellos dos.
+Con distancia, se miraban como si estuviesen a punto de perder la vista.
+Rompieron la fricción empezando a caminar el uno hacia el otro
+a paso lento pero continuado hasta estar frente a frente.
 
-El amor.
+El atardecer caía dando ambiente de frescura
+y un espectáculo de rayos de luz mezclados entre las nubes.
+????
+
+Y sucedió lo inevitable.  El amor.
