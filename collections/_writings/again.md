@@ -20,5 +20,5 @@ And we don't want to think.
 
 We don't want to think,\
 because being conscious of the time we've been apart\
-is a feeling neither of us want to experience again.\
-And because this one moment, and only this moment, we both know, is truth.
+is a feeling neither of us want to experience again,\
+and because this one moment, and only this moment, we both know, is truth.
