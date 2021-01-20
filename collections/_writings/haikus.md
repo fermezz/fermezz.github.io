@@ -17,3 +17,13 @@ saldrán las flores.
 El calor del sol.\
 Incinera de cerca,\
 vida de lejos.
+
+## 4
+La hoja del árbol\
+de su rama se desprende\
+y dispone del viento.
+
+## 5
+En compañía\
+brilla la luciérnaga,\
+y en soledad.
