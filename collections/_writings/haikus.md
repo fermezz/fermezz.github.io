@@ -27,3 +27,13 @@ y dispone del viento.
 En compañía\
 brilla la luciérnaga,\
 y en soledad.
+
+## 6
+Se hace lugar\
+entre lo escombros\
+un pedacito de alma.
+
+## 7
+Que las aguas\
+dejasen a mis pies\
+lugar para soñar.
