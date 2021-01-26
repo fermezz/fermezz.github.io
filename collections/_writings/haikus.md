@@ -37,3 +37,8 @@ un pedacito de alma.
 Que las aguas\
 dejasen a mis pies\
 lugar para soñar.
+
+## 8
+Desde el cielo\
+caen húmedas e incesantes\
+bolsitas de paz.
